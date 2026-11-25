@@ -292,10 +292,9 @@ public class Main {
 	}
 	
 	public static void about() {
-		System.out.println("251RDB046 Linda Faituša, 15");
-		System.out.println("251RDB137 Signe Zvirbule, 9");
-		System.out.println("251RDB071 Agate Fridmane, 6");
-		System.out.println("251RDB034 Marta Spriņģe, 15");
-		System.out.println("251RDB021 Samanta Kelmere, 15");
+		System.out.println("Linda XXXXXX");
+		System.out.println("Signe XXXXXX");
+		System.out.println("Agate Fridmane");
+		System.out.println("Marta XXXXXXX");
 	}
 }
